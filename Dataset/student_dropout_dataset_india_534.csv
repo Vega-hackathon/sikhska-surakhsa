@@ -1,0 +1,535 @@
+student_uid,student_name,college_email,college_name,department,current_year,current_semester,attendance_rate,avg_internal,cgpa,backlog_count,fee_status,normalized_engagement,scholarship_status
+231597513630,Kavya Mukherjee,kavya.mukherjee2323@dayanandasagar.edu,Dayananda Sagar College of Engineering,Civil Engineering,1,2,57,40,4.02,5,delayed,0.34,no
+228889514338,Yash Iyer,yash.iyer9982@dayanandasagar.edu,Dayananda Sagar College of Engineering,Computer Science and Engineering,1,1,96,87,9.36,0,paid,0.89,no
+231763201646,Vivaan Sengupta,vivaan.sengupta9690@pes.edu,PES University,Information Technology,1,2,52,54,4.55,3,delayed,0.24,no
+946392487945,Shaurya Iyer,shaurya.iyer1883@bmsce.ac.in,BMS College of Engineering,Mechanical Engineering,1,2,80,79,7.72,1,paid,0.54,no
+220658305641,Ritik Chauhan,ritik.chauhan828@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,2,3,91,81,9.62,0,paid,0.88,no
+913265945745,Krishna Das,krishna.das8270@manipal.edu,Manipal Institute of Technology,Civil Engineering,3,6,44,46,5.82,1,unpaid,0.35,no
+950817141110,Riya Menon,riya.menon1229@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,4,8,93,90,8.55,0,paid,0.95,no
+394270697253,Swati Kumar,swati.kumar1705@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,1,2,81,77,7.08,1,paid,0.51,no
+506453555351,Neha Iyer,neha.iyer3292@amity.edu,Amity University,Civil Engineering,3,5,75,72,7.13,1,paid,0.78,no
+250254194445,Aditi Kumar,aditi.kumar2593@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,4,7,99,82,8.95,0,paid,0.8,yes
+864484600317,Sanjay Thakur,sanjay.thakur7647@mitwpu.edu.in,MIT World Peace University,Electronics and Communication Engineering,4,7,80,75,7,1,paid,0.75,no
+748800237097,Anjali Sengupta,anjali.sengupta6806@kiit.ac.in,KIIT University,Electronics and Communication Engineering,2,4,84,60,6.96,1,paid,0.64,no
+603021318358,Akash Sengupta,akash.sengupta8172@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electrical and Electronics Engineering,2,4,84,75,6.57,0,paid,0.68,no
+669541468996,Pooja Bose,pooja.bose3203@vit.ac.in,Vellore Institute of Technology,Electronics and Communication Engineering,1,2,100,100,9.46,0,paid,0.92,no
+967736470148,Karthik Chaudhary,karthik.chaudhary5333@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,1,1,71,61,6.64,2,paid,0.78,no
+233048752908,Manoj Joshi,manoj.joshi6150@pes.edu,PES University,Civil Engineering,2,4,54,42,5.98,5,delayed,0.19,no
+511965578918,Pranav Gupta,pranav.gupta8060@lpu.in,Lovely Professional University,Mechanical Engineering,1,2,84,73,7.41,0,paid,0.66,no
+720412817356,Ishaan Chatterjee,ishaan.chatterjee315@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Mechanical Engineering,3,5,82,69,6.78,1,paid,0.52,no
+563805304048,Karthik Kulkarni,karthik.kulkarni5884@rvce.edu.in,RV College of Engineering,Information Technology,1,2,65,68,7.23,2,delayed,0.72,no
+934740265782,Vivaan Deshmukh,vivaan.deshmukh2764@kiit.ac.in,KIIT University,Electrical and Electronics Engineering,4,7,99,96,8.76,0,paid,0.89,yes
+938303770269,Pooja Deshmukh,pooja.deshmukh4476@bmsce.ac.in,BMS College of Engineering,Civil Engineering,3,5,48,57,5,1,delayed,0.35,no
+879032848732,Aditya Banerjee,aditya.banerjee8604@lpu.in,Lovely Professional University,Information Technology,4,7,82,71,7.07,0,paid,0.74,no
+450236794853,Yash Joshi,yash.joshi4196@rvce.edu.in,RV College of Engineering,Electronics and Communication Engineering,4,8,70,64,6.85,2,paid,0.59,no
+306088974834,Kabir Singh,kabir.singh6751@msrit.edu,MS Ramaiah Institute of Technology,Electronics and Communication Engineering,4,8,72,60,8.08,1,paid,0.63,no
+345108407642,Ramesh Singh,ramesh.singh1701@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,2,3,53,47,5.11,5,unpaid,0.39,no
+363314936861,Anjali Deshmukh,anjali.deshmukh328@bmsce.ac.in,BMS College of Engineering,Civil Engineering,3,6,69,69,6.96,1,paid,0.75,no
+537109476486,Abhinav Kulkarni,abhinav.kulkarni626@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,4,7,70,60,7.13,0,paid,0.53,no
+692061896933,Aditi Iyer,aditi.iyer9258@lpu.in,Lovely Professional University,Information Technology,2,4,72,73,7.33,2,paid,0.65,no
+875596631746,Ritik Tiwari,ritik.tiwari4945@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,1,1,66,70,7.77,1,paid,0.65,no
+980981931444,Aarti Sharma,aarti.sharma4617@bmsce.ac.in,BMS College of Engineering,Civil Engineering,4,8,70,70,7.21,0,paid,0.78,no
+451266927393,Ishaan Iyer,ishaan.iyer4654@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,3,6,82,74,8.14,2,paid,0.51,no
+737591674407,Sumit Menon,sumit.menon7806@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,3,6,95,91,9.5,0,paid,0.87,yes
+241050650330,Arjun Nair,arjun.nair2791@rvce.edu.in,RV College of Engineering,Electrical and Electronics Engineering,1,1,100,92,9.55,0,paid,0.81,yes
+603025968870,Akash Verma,akash.verma9579@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,3,5,85,100,8.72,0,paid,0.86,no
+337167320810,Khushi Banerjee,khushi.banerjee2251@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,4,7,43,38,5.75,2,paid,0.45,no
+956648136889,Aarti Kumar,aarti.kumar6015@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,3,6,89,91,8.53,0,paid,0.89,yes
+564412357584,Anjali Mukherjee,anjali.mukherjee8506@pes.edu,PES University,Information Technology,3,5,46,49,4.33,1,unpaid,0.19,no
+775272259584,Rahul Chatterjee,rahul.chatterjee6398@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,1,1,71,75,8.09,0,delayed,0.72,no
+616155489942,Rohan Rajput,rohan.rajput7933@hithaldia.ac.in,Haldia Institute of Technology,Computer Science and Engineering,4,7,100,82,8.75,0,paid,0.82,yes
+873711919687,Ananya Chatterjee,ananya.chatterjee5407@srmist.edu.in,SRM Institute of Science and Technology,Electronics and Communication Engineering,2,4,51,45,6.48,5,unpaid,0.19,no
+669655194326,Sonam Deshmukh,sonam.deshmukh6668@msrit.edu,MS Ramaiah Institute of Technology,Computer Science and Engineering,3,5,98,95,8.7,0,paid,0.84,no
+754012318734,Sumit Sharma,sumit.sharma7934@lpu.in,Lovely Professional University,Civil Engineering,3,5,81,69,6.69,0,paid,0.72,no
+742172332973,Atharva Chauhan,atharva.chauhan8270@lpu.in,Lovely Professional University,Information Technology,4,7,75,70,7.97,1,paid,0.68,no
+995089949972,Dev Chatterjee,dev.chatterjee5544@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,3,6,71,77,7.94,1,paid,0.64,no
+298205914730,Priya Sengupta,priya.sengupta1781@vit.ac.in,Vellore Institute of Technology,Civil Engineering,4,7,53,40,4.86,2,unpaid,0.32,no
+538318322368,Pranav Reddy,pranav.reddy5674@thapar.edu,Thapar Institute of Engineering and Technology,Electrical and Electronics Engineering,3,6,41,47,5.42,2,paid,0.16,no
+715183707270,Aryan Iyer,aryan.iyer9185@kiit.ac.in,KIIT University,Information Technology,4,7,59,37,6.29,1,unpaid,0.39,no
+749399477285,Ramesh Rajput,ramesh.rajput3684@manipal.edu,Manipal Institute of Technology,Electronics and Communication Engineering,4,8,42,38,6.18,1,delayed,0.38,no
+189363791719,Aaryan Chaudhary,aaryan.chaudhary593@pes.edu,PES University,Information Technology,1,2,71,69,7.15,1,paid,0.55,no
+264739814400,Sanjay Chatterjee,sanjay.chatterjee8161@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,4,8,80,61,8.24,2,delayed,0.61,no
+286961750847,Sumit Pandey,sumit.pandey8333@bmsce.ac.in,BMS College of Engineering,Civil Engineering,4,7,96,97,9.08,0,paid,0.93,no
+424872203033,Swati Chatterjee,swati.chatterjee5249@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,3,5,99,97,8.78,0,paid,0.95,yes
+452147619540,Sonam Rao,sonam.rao2631@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,4,8,43,47,6.13,2,delayed,0.1,no
+188263327682,Amit Menon,amit.menon4115@amity.edu,Amity University,Electronics and Communication Engineering,1,1,65,63,7.91,0,delayed,0.58,no
+410871930896,Dhruv Shah,dhruv.shah4436@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,1,1,84,75,6.98,0,paid,0.58,no
+782443653271,Mukesh Patel,mukesh.patel669@kiit.ac.in,KIIT University,Mechanical Engineering,1,2,74,79,7.36,0,paid,0.57,no
+463392773634,Sanjay Shah,sanjay.shah5082@msrit.edu,MS Ramaiah Institute of Technology,Civil Engineering,4,8,86,100,9.54,0,paid,0.97,no
+793172871586,Vivaan Gupta,vivaan.gupta9086@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,1,1,82,61,8.44,1,paid,0.75,no
+974380793907,Abhishek Patil,abhishek.patil8396@kiit.ac.in,KIIT University,Civil Engineering,1,2,78,79,8.36,2,paid,0.71,no
+559428757608,Abhinav Nair,abhinav.nair8778@rvce.edu.in,RV College of Engineering,Information Technology,3,5,70,75,6.7,2,paid,0.55,no
+517147538464,Atharva Kulkarni,atharva.kulkarni4233@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,2,4,83,63,6.7,0,delayed,0.75,no
+462991241261,Pranav Chauhan,pranav.chauhan7971@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,3,5,76,78,7.24,2,paid,0.61,no
+989759781529,Ananya Mukherjee,ananya.mukherjee4162@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,1,1,68,67,6.71,1,delayed,0.59,no
+894058196956,Ananya Joshi,ananya.joshi9516@hithaldia.ac.in,Haldia Institute of Technology,Electronics and Communication Engineering,3,5,81,76,6.68,2,paid,0.53,no
+764661208874,Shreya Singh,shreya.singh3255@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,4,8,92,88,9.31,0,paid,0.9,no
+114545764417,Mukesh Tiwari,mukesh.tiwari4796@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,1,2,54,48,4.22,3,unpaid,0.13,no
+394083626759,Manoj Patil,manoj.patil7612@lpu.in,Lovely Professional University,Computer Science and Engineering,3,6,73,78,7.41,2,paid,0.53,no
+724030702054,Sumit Gupta,sumit.gupta4780@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,4,7,73,79,8.49,1,paid,0.61,no
+193073408864,Vivek Nair,vivek.nair4880@thapar.edu,Thapar Institute of Engineering and Technology,Electrical and Electronics Engineering,4,7,99,83,8.65,0,paid,0.83,yes
+762014230804,Yash Mukherjee,yash.mukherjee8129@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,3,6,46,48,6.15,2,paid,0.24,no
+752755773805,Aditi Chatterjee,aditi.chatterjee1508@manipal.edu,Manipal Institute of Technology,Information Technology,1,2,73,63,8.32,1,paid,0.62,no
+406540824069,Krishna Iyer,krishna.iyer7906@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Mechanical Engineering,3,5,100,86,8.78,0,paid,0.82,no
+825877779330,Ramesh Pandey,ramesh.pandey5057@pes.edu,PES University,Information Technology,4,7,93,94,8.97,0,paid,0.9,yes
+287323948377,Vivek Verma,vivek.verma8898@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,3,6,62,54,4.52,3,paid,0.4,no
+534436906476,Shreya Rao,shreya.rao5487@kiit.ac.in,KIIT University,Mechanical Engineering,2,3,84,67,6.58,0,delayed,0.53,no
+482908135514,Raj Chatterjee,raj.chatterjee3195@nmamit.nitte.edu.in,NMAM Institute of Technology,Mechanical Engineering,3,6,90,88,9.26,0,paid,0.85,no
+116074408153,Vikas Bose,vikas.bose6629@vit.ac.in,Vellore Institute of Technology,Electronics and Communication Engineering,2,4,52,53,4.55,2,unpaid,0.26,no
+712338425007,Sonam Chaudhary,sonam.chaudhary5663@pes.edu,PES University,Civil Engineering,2,3,68,68,7.1,2,delayed,0.64,no
+713347517608,Aditi Patil,aditi.patil6034@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,3,5,68,70,8.33,1,paid,0.55,no
+764119754768,Rahul Yadav,rahul.yadav4367@kiit.ac.in,KIIT University,Civil Engineering,1,1,91,87,9.26,0,paid,0.83,yes
+297183841868,Vivek Joshi,vivek.joshi6503@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,1,1,69,79,7.14,1,delayed,0.74,no
+848924813122,Ananya Reddy,ananya.reddy2813@thapar.edu,Thapar Institute of Engineering and Technology,Electronics and Communication Engineering,1,1,98,86,8.55,0,paid,0.91,no
+320925284481,Abhinav Rao,abhinav.rao1349@hithaldia.ac.in,Haldia Institute of Technology,Electronics and Communication Engineering,3,6,78,75,7.4,0,paid,0.56,no
+222384928776,Karthik Pandey,karthik.pandey103@thapar.edu,Thapar Institute of Engineering and Technology,Civil Engineering,1,1,74,78,6.56,2,paid,0.51,no
+136458994657,Khushi Mishra,khushi.mishra746@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electrical and Electronics Engineering,4,8,74,73,6.58,0,paid,0.73,no
+203414934986,Pranav Bose,pranav.bose5341@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electrical and Electronics Engineering,4,7,80,60,7.13,2,paid,0.51,no
+885082419823,Rohan Nair,rohan.nair1853@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,1,1,79,61,7.82,2,delayed,0.68,no
+993084409314,Krishna Kumar,krishna.kumar7909@mitwpu.edu.in,MIT World Peace University,Computer Science and Engineering,3,6,99,100,9.39,0,paid,0.83,yes
+155198373510,Ayaan Kulkarni,ayaan.kulkarni6332@lpu.in,Lovely Professional University,Civil Engineering,1,1,67,64,6.98,0,delayed,0.64,no
+266037245225,Aryan Banerjee,aryan.banerjee1128@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,2,4,42,58,5.65,1,delayed,0.22,no
+140245739060,Anjali Chauhan,anjali.chauhan5629@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,4,8,46,36,6.21,4,delayed,0.36,no
+572267748790,Raj Rao,raj.rao6717@kiit.ac.in,KIIT University,Civil Engineering,3,6,91,91,9.34,0,paid,0.92,no
+346540274552,Vivaan Patil,vivaan.patil2807@lpu.in,Lovely Professional University,Civil Engineering,1,2,52,37,6.22,5,paid,0.22,no
+437758543425,Shreya Deshmukh,shreya.deshmukh1466@msrit.edu,MS Ramaiah Institute of Technology,Electronics and Communication Engineering,3,5,65,71,7.46,1,delayed,0.74,no
+977420167875,Manoj Chatterjee,manoj.chatterjee6452@bmsce.ac.in,BMS College of Engineering,Mechanical Engineering,3,6,69,68,7.8,1,paid,0.73,no
+975225201766,Aryan Patil,aryan.patil2269@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,1,2,65,65,7.87,0,paid,0.54,no
+631441576428,Mukesh Kumar,mukesh.kumar7682@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Mechanical Engineering,3,5,72,67,8,0,paid,0.71,no
+621278503326,Abhishek Chatterjee,abhishek.chatterjee8838@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,3,5,79,79,7.88,1,paid,0.53,no
+905499313398,Pranav Menon,pranav.menon4255@kiit.ac.in,KIIT University,Information Technology,3,6,72,76,8.13,1,paid,0.64,no
+487913854439,Shreya Patil,shreya.patil7214@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,4,8,64,38,4.31,4,delayed,0.22,no
+971467753422,Amit Chauhan,amit.chauhan4760@manipal.edu,Manipal Institute of Technology,Information Technology,4,8,75,78,7.91,0,paid,0.58,no
+466598341706,Rahul Iyer,rahul.iyer9589@msrit.edu,MS Ramaiah Institute of Technology,Civil Engineering,2,3,69,75,7.03,1,paid,0.77,no
+712682583202,Atharva Thakur,atharva.thakur7176@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,2,4,44,50,5.77,3,delayed,0.23,no
+230374257531,Neha Singh,neha.singh5413@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,1,2,65,62,7.15,0,paid,0.59,no
+656845851700,Yash Shah,yash.shah7888@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,3,6,63,35,5.15,5,delayed,0.22,no
+459900350307,Pranav Mishra,pranav.mishra5763@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,4,7,77,66,7.07,2,paid,0.72,no
+104513968523,Shyam Reddy,shyam.reddy4944@dayanandasagar.edu,Dayananda Sagar College of Engineering,Civil Engineering,2,3,66,60,7.5,1,paid,0.74,no
+731858947436,Raj Shah,raj.shah2865@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,4,7,65,77,6.83,2,paid,0.55,no
+844844448652,Ishaan Kumar,ishaan.kumar9526@mitwpu.edu.in,MIT World Peace University,Information Technology,2,3,93,86,8.52,0,paid,0.87,yes
+633320710235,Shruti Mishra,shruti.mishra4589@srmist.edu.in,SRM Institute of Science and Technology,Mechanical Engineering,3,6,66,72,7.79,0,paid,0.55,no
+794048712623,Shreya Das,shreya.das9354@pes.edu,PES University,Information Technology,3,6,79,70,8.21,2,paid,0.71,no
+794304707540,Aditya Sharma,aditya.sharma9935@srmist.edu.in,SRM Institute of Science and Technology,Mechanical Engineering,4,7,72,73,7.07,1,paid,0.63,no
+615879484950,Swati Sharma,swati.sharma8534@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,3,6,95,81,9.49,0,paid,0.89,no
+256320621484,Sanjay Verma,sanjay.verma1500@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,2,4,69,65,8.4,1,paid,0.65,no
+497847672494,Sneha Singh,sneha.singh8959@msrit.edu,MS Ramaiah Institute of Technology,Electronics and Communication Engineering,2,4,61,35,4.16,1,unpaid,0.19,no
+487832359906,Swati Singh,swati.singh1971@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,2,4,89,90,9.27,0,paid,0.85,no
+712272602976,Rohan Menon,rohan.menon5132@pes.edu,PES University,Electrical and Electronics Engineering,3,5,69,69,6.83,1,paid,0.74,no
+251654616324,Rahul Chauhan,rahul.chauhan5422@lpu.in,Lovely Professional University,Mechanical Engineering,3,6,65,65,8.33,1,delayed,0.57,no
+692454771673,Atharva Desai,atharva.desai5309@msrit.edu,MS Ramaiah Institute of Technology,Information Technology,1,1,69,65,7.69,1,paid,0.64,no
+836301944258,Swati Thakur,swati.thakur5231@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,1,1,73,78,7.65,2,paid,0.62,no
+450507438594,Yash Bose,yash.bose4810@bmsce.ac.in,BMS College of Engineering,Civil Engineering,2,3,89,86,8.84,0,paid,0.88,no
+357192373695,Akash Chauhan,akash.chauhan3838@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,2,3,87,86,9.55,0,paid,0.93,no
+903845676365,Ritik Patil,ritik.patil1200@pes.edu,PES University,Civil Engineering,3,5,82,72,8.4,2,paid,0.67,no
+620571993953,Rahul Thakur,rahul.thakur9671@manipal.edu,Manipal Institute of Technology,Civil Engineering,4,8,96,92,9.36,0,paid,0.98,no
+876078224555,Sneha Chaudhary,sneha.chaudhary6125@lpu.in,Lovely Professional University,Computer Science and Engineering,3,6,70,76,6.68,0,paid,0.53,no
+900641995257,Shaurya Deshmukh,shaurya.deshmukh1569@rvce.edu.in,RV College of Engineering,Computer Science and Engineering,1,2,95,88,9.78,0,paid,0.92,no
+997864538008,Reyansh Pandey,reyansh.pandey9711@nmamit.nitte.edu.in,NMAM Institute of Technology,Electrical and Electronics Engineering,2,3,82,73,7.59,0,delayed,0.51,no
+984296931865,Vikas Menon,vikas.menon8793@lpu.in,Lovely Professional University,Mechanical Engineering,3,6,89,84,9.34,0,paid,0.9,yes
+429252762773,Ramesh Banerjee,ramesh.banerjee6935@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Information Technology,1,2,79,68,6.73,0,paid,0.69,no
+443141146993,Ishaan Rao,ishaan.rao1109@srmist.edu.in,SRM Institute of Science and Technology,Civil Engineering,3,6,76,63,7.12,0,delayed,0.75,no
+890480343914,Abhinav Patil,abhinav.patil5904@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,4,8,94,93,9.18,0,paid,0.88,no
+845789806178,Yash Yadav,yash.yadav6418@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,3,6,93,97,8.97,0,paid,0.82,yes
+542445110492,Aditi Kulkarni,aditi.kulkarni9350@srmist.edu.in,SRM Institute of Science and Technology,Electronics and Communication Engineering,4,7,81,63,8.29,0,delayed,0.58,no
+547884903755,Vivaan Tiwari,vivaan.tiwari3537@msrit.edu,MS Ramaiah Institute of Technology,Electronics and Communication Engineering,2,4,60,59,4.61,2,paid,0.18,no
+827122117881,Abhishek Verma,abhishek.verma3124@manipal.edu,Manipal Institute of Technology,Information Technology,3,6,66,69,8.29,0,paid,0.68,no
+290501131595,Kabir Sengupta,kabir.sengupta2865@nmamit.nitte.edu.in,NMAM Institute of Technology,Mechanical Engineering,1,2,99,85,8.79,0,paid,0.98,no
+185709116472,Sneha Shah,sneha.shah8781@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,3,5,52,52,4.41,4,paid,0.31,no
+530361879434,Sneha Mukherjee,sneha.mukherjee8374@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,1,1,49,39,5.83,2,delayed,0.38,no
+681576478871,Khushi Rao,khushi.rao3344@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,4,8,91,86,8.61,0,paid,0.86,no
+683449578446,Shaurya Gupta,shaurya.gupta1240@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,3,5,73,79,7.92,2,paid,0.73,no
+322191425132,Shruti Shah,shruti.shah1270@pes.edu,PES University,Information Technology,1,2,44,37,5.48,2,unpaid,0.36,no
+439311738000,Mukesh Mishra,mukesh.mishra7475@hithaldia.ac.in,Haldia Institute of Technology,Electronics and Communication Engineering,4,7,50,43,4.91,5,paid,0.48,no
+563249678250,Ishaan Mishra,ishaan.mishra3256@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,4,8,72,70,7.39,1,paid,0.6,no
+490175362668,Ayaan Tiwari,ayaan.tiwari9801@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,1,2,73,77,8.18,1,delayed,0.5,no
+748079454725,Vivek Das,vivek.das4532@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,4,8,88,83,8.73,0,paid,0.99,no
+516701577903,Ananya Patel,ananya.patel8527@thapar.edu,Thapar Institute of Engineering and Technology,Civil Engineering,1,2,80,66,7.09,0,paid,0.52,no
+881041734232,Shaurya Mukherjee,shaurya.mukherjee8490@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,4,8,57,42,4.23,4,unpaid,0.25,no
+492281101163,Sneha Mishra,sneha.mishra9496@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electrical and Electronics Engineering,1,2,67,63,7.24,1,paid,0.6,no
+962795557848,Manoj Mishra,manoj.mishra2536@bmsce.ac.in,BMS College of Engineering,Mechanical Engineering,4,7,74,69,7.63,1,paid,0.62,no
+121624412381,Vivek Iyer,vivek.iyer9092@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,2,3,61,37,5.03,1,delayed,0.44,no
+581776824427,Sai Rajput,sai.rajput7956@mitwpu.edu.in,MIT World Peace University,Computer Science and Engineering,1,1,84,62,6.81,2,paid,0.51,no
+353105400602,Anjali Mishra,anjali.mishra6882@amity.edu,Amity University,Mechanical Engineering,3,5,71,65,6.6,2,delayed,0.68,no
+167964961283,Nidhi Singh,nidhi.singh784@bmsce.ac.in,BMS College of Engineering,Mechanical Engineering,4,7,84,65,7.73,2,delayed,0.63,no
+164902314962,Sonam Tiwari,sonam.tiwari7431@pes.edu,PES University,Computer Science and Engineering,2,4,66,63,8.45,2,delayed,0.7,no
+631109889872,Sanjay Reddy,sanjay.reddy1516@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,1,1,73,61,7,2,paid,0.61,no
+164875794462,Rohan Yadav,rohan.yadav914@msrit.edu,MS Ramaiah Institute of Technology,Information Technology,4,7,63,55,6.1,4,delayed,0.43,no
+626747173814,Aditi Yadav,aditi.yadav3386@kiit.ac.in,KIIT University,Computer Science and Engineering,1,1,82,79,7.97,2,delayed,0.69,no
+310670727555,Vivaan Chatterjee,vivaan.chatterjee3275@msrit.edu,MS Ramaiah Institute of Technology,Civil Engineering,3,5,75,70,6.88,0,paid,0.6,no
+131258792624,Mukesh Chaudhary,mukesh.chaudhary9054@rvce.edu.in,RV College of Engineering,Electrical and Electronics Engineering,2,4,91,89,9.04,0,paid,0.92,yes
+582078788084,Riya Chauhan,riya.chauhan8189@lpu.in,Lovely Professional University,Mechanical Engineering,4,8,88,87,9.17,0,paid,0.96,yes
+712785634522,Reyansh Yadav,reyansh.yadav837@msrit.edu,MS Ramaiah Institute of Technology,Computer Science and Engineering,4,8,97,97,9.71,0,paid,0.82,no
+460641640325,Vihaan Patel,vihaan.patel3762@lpu.in,Lovely Professional University,Electrical and Electronics Engineering,4,7,87,83,9.08,0,paid,0.81,yes
+233286319955,Sai Bose,sai.bose5539@lpu.in,Lovely Professional University,Civil Engineering,3,5,65,69,6.69,0,paid,0.52,no
+444670253311,Dhruv Deshmukh,dhruv.deshmukh569@pes.edu,PES University,Civil Engineering,4,8,75,64,7.78,2,paid,0.74,no
+503908718417,Raj Deshmukh,raj.deshmukh1378@rvce.edu.in,RV College of Engineering,Electrical and Electronics Engineering,1,1,80,63,7.87,1,paid,0.75,no
+443080616000,Pranav Banerjee,pranav.banerjee8810@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,4,7,98,92,9.36,0,paid,0.85,no
+964390336461,Kavya Verma,kavya.verma7300@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,3,5,80,76,7.78,2,paid,0.78,no
+572631476108,Swati Rao,swati.rao7458@msrit.edu,MS Ramaiah Institute of Technology,Electronics and Communication Engineering,2,3,95,95,9.18,0,paid,0.91,yes
+854294452017,Aarti Menon,aarti.menon1949@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Information Technology,4,8,99,88,9.07,0,paid,0.94,no
+459882395163,Manoj Pandey,manoj.pandey114@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,4,7,66,78,7.36,1,paid,0.77,no
+854255768506,Rahul Rajput,rahul.rajput3093@mitwpu.edu.in,MIT World Peace University,Computer Science and Engineering,4,7,94,98,9.45,0,paid,1,yes
+309767234955,Krishna Verma,krishna.verma5915@lpu.in,Lovely Professional University,Electronics and Communication Engineering,1,2,73,74,7.99,2,paid,0.67,no
+557858522209,Amit Sengupta,amit.sengupta371@pes.edu,PES University,Electronics and Communication Engineering,1,1,70,73,7.57,2,paid,0.66,no
+535915506458,Sanjay Desai,sanjay.desai7149@kiit.ac.in,KIIT University,Civil Engineering,1,2,80,74,7.13,2,paid,0.75,no
+219257194988,Shruti Rajput,shruti.rajput8185@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,1,2,95,97,8.69,0,paid,0.98,no
+536437332751,Sai Chatterjee,sai.chatterjee1917@nmamit.nitte.edu.in,NMAM Institute of Technology,Mechanical Engineering,1,1,81,63,8.43,1,paid,0.72,no
+806901394718,Kabir Sharma,kabir.sharma7750@mitwpu.edu.in,MIT World Peace University,Information Technology,1,1,75,76,7.68,2,paid,0.59,no
+491971986298,Aditya Reddy,aditya.reddy6459@kiit.ac.in,KIIT University,Information Technology,2,3,93,85,9.48,0,paid,0.99,no
+504925737436,Aaryan Patil,aaryan.patil8451@hithaldia.ac.in,Haldia Institute of Technology,Civil Engineering,4,7,73,62,7.89,0,paid,0.61,no
+710474775097,Vihaan Rao,vihaan.rao8079@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,3,6,48,45,5.74,5,unpaid,0.28,no
+543225638807,Rohan Sharma,rohan.sharma9033@vit.ac.in,Vellore Institute of Technology,Civil Engineering,2,4,90,97,8.79,0,paid,0.82,no
+468091367796,Ramesh Chaudhary,ramesh.chaudhary5553@bmsce.ac.in,BMS College of Engineering,Civil Engineering,4,7,83,73,6.71,2,paid,0.51,no
+830976967524,Sai Kumar,sai.kumar594@msrit.edu,MS Ramaiah Institute of Technology,Computer Science and Engineering,1,2,77,77,7.1,1,paid,0.58,no
+295993284902,Shruti Chaudhary,shruti.chaudhary843@amity.edu,Amity University,Civil Engineering,2,4,75,74,6.94,2,delayed,0.6,no
+158558753147,Kavya Sharma,kavya.sharma3586@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,4,8,83,63,7.59,2,paid,0.6,no
+834075546640,Anjali Gupta,anjali.gupta4209@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,2,4,76,64,6.73,1,paid,0.56,no
+171105292220,Priya Joshi,priya.joshi5957@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,2,3,81,74,7.4,1,paid,0.71,no
+116978611715,Pooja Kumar,pooja.kumar9886@msrit.edu,MS Ramaiah Institute of Technology,Information Technology,3,5,78,78,7.74,1,paid,0.56,no
+412984115858,Ishaan Sengupta,ishaan.sengupta1505@lpu.in,Lovely Professional University,Electrical and Electronics Engineering,1,2,96,92,9.8,0,paid,0.91,no
+735030936455,Shruti Iyer,shruti.iyer1087@amity.edu,Amity University,Electrical and Electronics Engineering,2,3,89,82,8.56,0,paid,0.86,no
+579226607155,Shaurya Reddy,shaurya.reddy5231@kiit.ac.in,KIIT University,Electronics and Communication Engineering,1,1,74,64,8.08,1,delayed,0.73,no
+759113310985,Aaryan Bose,aaryan.bose2889@amity.edu,Amity University,Electrical and Electronics Engineering,1,2,75,79,7.62,1,paid,0.64,no
+411585781339,Aditi Mishra,aditi.mishra7078@amity.edu,Amity University,Electronics and Communication Engineering,4,7,84,75,6.8,0,delayed,0.68,no
+728756394399,Rohan Singh,rohan.singh2837@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,3,6,73,79,7.97,2,paid,0.55,no
+432429348060,Rohan Chauhan,rohan.chauhan1589@lpu.in,Lovely Professional University,Electrical and Electronics Engineering,3,5,78,69,6.65,2,paid,0.54,no
+899959820946,Vivaan Singh,vivaan.singh6677@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,1,1,87,93,8.8,0,paid,0.84,yes
+119315648569,Abhinav Thakur,abhinav.thakur3670@amity.edu,Amity University,Mechanical Engineering,4,7,48,42,5.88,5,delayed,0.44,no
+255105645141,Dhruv Iyer,dhruv.iyer5486@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,2,4,57,40,4.31,5,unpaid,0.44,no
+608627709406,Ananya Chauhan,ananya.chauhan5369@manipal.edu,Manipal Institute of Technology,Civil Engineering,4,8,87,87,8.94,0,paid,0.87,no
+356754664432,Anjali Iyer,anjali.iyer7846@amity.edu,Amity University,Electronics and Communication Engineering,1,2,90,85,8.59,0,paid,0.88,yes
+495471814037,Sumit Patil,sumit.patil5186@mitwpu.edu.in,MIT World Peace University,Computer Science and Engineering,3,5,74,73,8.4,1,paid,0.62,no
+778028451782,Shreya Verma,shreya.verma52@amity.edu,Amity University,Mechanical Engineering,2,4,95,88,9.43,0,paid,0.95,no
+407571639408,Abhishek Menon,abhishek.menon350@rvce.edu.in,RV College of Engineering,Electronics and Communication Engineering,4,8,67,79,7.27,2,paid,0.67,no
+786912248333,Sanjay Mukherjee,sanjay.mukherjee4022@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,3,6,65,64,8.43,1,delayed,0.66,no
+735808610417,Yash Kumar,yash.kumar1708@nmamit.nitte.edu.in,NMAM Institute of Technology,Electronics and Communication Engineering,4,7,89,87,8.66,0,paid,0.86,no
+511437385862,Shyam Tiwari,shyam.tiwari4393@manipal.edu,Manipal Institute of Technology,Information Technology,1,1,63,52,4.93,3,delayed,0.18,no
+173682495179,Priya Chauhan,priya.chauhan6126@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Computer Science and Engineering,2,3,64,45,4.6,2,unpaid,0.36,no
+218797645370,Ananya Gupta,ananya.gupta8366@pes.edu,PES University,Information Technology,1,1,95,86,8.67,0,paid,0.81,no
+836269802491,Nidhi Reddy,nidhi.reddy591@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,3,5,66,78,7.52,0,paid,0.57,no
+617209386625,Priya Gupta,priya.gupta8255@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,1,2,100,83,9.38,0,paid,0.94,yes
+226939947860,Sumit Sengupta,sumit.sengupta5902@pes.edu,PES University,Computer Science and Engineering,3,5,78,64,7.89,2,paid,0.57,no
+412166766805,Sonam Banerjee,sonam.banerjee5425@rvce.edu.in,RV College of Engineering,Electrical and Electronics Engineering,3,5,46,54,6.15,2,unpaid,0.17,no
+847564229935,Sonam Gupta,sonam.gupta5770@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,3,6,71,70,8.28,1,delayed,0.5,no
+245966474297,Rahul Kulkarni,rahul.kulkarni6721@rvce.edu.in,RV College of Engineering,Electrical and Electronics Engineering,2,4,58,57,4.22,1,delayed,0.41,no
+139474847498,Vivek Menon,vivek.menon6538@kiit.ac.in,KIIT University,Electrical and Electronics Engineering,3,5,85,96,9.21,0,paid,0.97,yes
+600088815875,Rahul Singh,rahul.singh9236@rvce.edu.in,RV College of Engineering,Electrical and Electronics Engineering,1,2,55,37,4.5,5,unpaid,0.29,no
+319829720712,Sonam Sharma,sonam.sharma4664@rvce.edu.in,RV College of Engineering,Mechanical Engineering,1,2,72,77,8.32,2,paid,0.78,no
+317881433960,Shruti Patil,shruti.patil3702@rvce.edu.in,RV College of Engineering,Civil Engineering,3,5,81,79,7.69,0,paid,0.55,no
+453999729044,Aarav Singh,aarav.singh9581@lpu.in,Lovely Professional University,Information Technology,1,2,71,67,7.65,0,paid,0.61,no
+861370838984,Anjali Banerjee,anjali.banerjee1635@dayanandasagar.edu,Dayananda Sagar College of Engineering,Mechanical Engineering,1,2,56,37,6.42,3,delayed,0.23,no
+108473817114,Akash Thakur,akash.thakur2670@hithaldia.ac.in,Haldia Institute of Technology,Electronics and Communication Engineering,4,8,68,66,8.37,1,paid,0.64,no
+693836194082,Aarav Rajput,aarav.rajput1625@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,4,7,67,62,6.73,2,paid,0.76,no
+175557789387,Krishna Patel,krishna.patel2284@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,1,1,41,55,6.38,3,delayed,0.17,no
+801710783418,Ananya Desai,ananya.desai8826@kiit.ac.in,KIIT University,Electronics and Communication Engineering,3,5,75,70,8.24,2,delayed,0.78,no
+764754353272,Krishna Desai,krishna.desai8252@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,4,8,51,51,4.09,4,unpaid,0.44,no
+714979738482,Neha Yadav,neha.yadav6344@amity.edu,Amity University,Computer Science and Engineering,2,3,66,62,6.56,0,paid,0.65,no
+392263189740,Atharva Rao,atharva.rao5190@rvce.edu.in,RV College of Engineering,Information Technology,1,1,79,66,7.4,2,paid,0.68,no
+924134919676,Ritik Gupta,ritik.gupta4902@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,2,3,57,42,4.72,5,unpaid,0.17,no
+572834111328,Aarav Tiwari,aarav.tiwari3191@vit.ac.in,Vellore Institute of Technology,Information Technology,1,2,99,97,9.63,0,paid,0.88,no
+210546731993,Vikas Singh,vikas.singh8154@lpu.in,Lovely Professional University,Electrical and Electronics Engineering,1,1,46,57,4.14,4,delayed,0.43,no
+191414823547,Priya Menon,priya.menon5750@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,4,7,70,77,8.13,2,delayed,0.53,no
+280981719865,Vivaan Menon,vivaan.menon5502@kiit.ac.in,KIIT University,Civil Engineering,1,2,67,76,7.61,2,paid,0.55,no
+457795256003,Shyam Nair,shyam.nair5358@vit.ac.in,Vellore Institute of Technology,Civil Engineering,2,3,84,78,6.81,2,paid,0.54,no
+402578296509,Riya Chatterjee,riya.chatterjee628@lpu.in,Lovely Professional University,Computer Science and Engineering,3,5,57,59,4.97,4,delayed,0.4,no
+892430481162,Suresh Bose,suresh.bose8478@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,4,7,71,78,7.01,0,paid,0.67,no
+967889511362,Nidhi Banerjee,nidhi.banerjee410@pes.edu,PES University,Electrical and Electronics Engineering,2,4,64,44,4.59,1,delayed,0.22,no
+110379259090,Dhruv Chaudhary,dhruv.chaudhary2332@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,4,7,67,68,7.78,1,paid,0.72,no
+989921221341,Ananya Banerjee,ananya.banerjee9705@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,1,2,95,97,9.35,0,paid,0.93,yes
+462449901745,Dhruv Joshi,dhruv.joshi6064@amity.edu,Amity University,Information Technology,4,7,81,70,7.08,0,paid,0.63,no
+521219173087,Arjun Bose,arjun.bose3523@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,4,7,47,54,4.42,1,delayed,0.28,no
+648893151138,Shreya Mukherjee,shreya.mukherjee8569@lpu.in,Lovely Professional University,Electronics and Communication Engineering,1,2,98,87,9.78,0,paid,0.95,no
+555093709975,Aarti Reddy,aarti.reddy1127@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,2,3,96,86,9.64,0,paid,0.99,yes
+223205293460,Nidhi Tiwari,nidhi.tiwari2494@rvce.edu.in,RV College of Engineering,Information Technology,4,7,80,75,8.29,2,delayed,0.64,no
+710196443778,Vivek Mukherjee,vivek.mukherjee9755@rvce.edu.in,RV College of Engineering,Electronics and Communication Engineering,3,6,68,64,8.19,0,delayed,0.74,no
+949177596901,Amit Das,amit.das3084@rvce.edu.in,RV College of Engineering,Civil Engineering,3,6,93,89,9.73,0,paid,0.82,no
+431740830384,Nidhi Mukherjee,nidhi.mukherjee2789@hithaldia.ac.in,Haldia Institute of Technology,Computer Science and Engineering,4,8,73,70,8.19,2,paid,0.67,no
+286086933015,Raj Sengupta,raj.sengupta7928@lpu.in,Lovely Professional University,Mechanical Engineering,4,7,71,77,8.03,0,paid,0.57,no
+497951278783,Aarti Deshmukh,aarti.deshmukh5386@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,3,6,89,92,9.36,0,paid,0.94,no
+544116910800,Ishaan Yadav,ishaan.yadav7304@thapar.edu,Thapar Institute of Engineering and Technology,Civil Engineering,4,8,81,71,8,0,paid,0.76,no
+119608377350,Karthik Rajput,karthik.rajput4527@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,3,5,72,62,8.18,0,paid,0.6,no
+618393638076,Arjun Rao,arjun.rao4141@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,3,5,93,90,9.37,0,paid,0.99,no
+983817657575,Karthik Yadav,karthik.yadav8322@lpu.in,Lovely Professional University,Computer Science and Engineering,1,2,98,88,8.79,0,paid,0.99,no
+713395915546,Khushi Kumar,khushi.kumar407@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,3,6,81,66,8.25,0,paid,0.62,no
+498671907073,Shreya Chauhan,shreya.chauhan3442@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,4,7,81,62,7.63,0,paid,0.66,no
+149073690449,Aditya Deshmukh,aditya.deshmukh5788@kiit.ac.in,KIIT University,Electronics and Communication Engineering,1,1,41,42,6.02,2,delayed,0.34,no
+419101156018,Ananya Kulkarni,ananya.kulkarni7569@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Mechanical Engineering,1,1,84,72,8.16,0,paid,0.7,no
+269072918333,Manoj Menon,manoj.menon2677@hithaldia.ac.in,Haldia Institute of Technology,Information Technology,1,2,67,78,6.93,1,paid,0.75,no
+593682196978,Ayaan Yadav,ayaan.yadav9989@mitwpu.edu.in,MIT World Peace University,Information Technology,2,4,68,62,7.45,1,paid,0.7,no
+867343204867,Arjun Patil,arjun.patil4805@kiit.ac.in,KIIT University,Electronics and Communication Engineering,3,6,84,60,8.06,2,paid,0.73,no
+759761305167,Nidhi Rajput,nidhi.rajput7205@hithaldia.ac.in,Haldia Institute of Technology,Civil Engineering,1,2,79,74,7.09,2,paid,0.53,no
+122647230247,Yash Sengupta,yash.sengupta5029@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,4,8,50,53,4.9,3,delayed,0.37,no
+588922479239,Atharva Mishra,atharva.mishra1932@msrit.edu,MS Ramaiah Institute of Technology,Information Technology,4,7,99,95,9.77,0,paid,0.88,no
+698473165711,Ramesh Patel,ramesh.patel913@msrit.edu,MS Ramaiah Institute of Technology,Civil Engineering,2,3,80,64,8.26,0,paid,0.63,no
+481391677345,Sneha Deshmukh,sneha.deshmukh5362@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,3,6,71,77,6.97,0,paid,0.56,no
+938608592004,Mukesh Chatterjee,mukesh.chatterjee5845@amity.edu,Amity University,Information Technology,4,8,95,95,8.62,0,paid,0.94,no
+434510283415,Anjali Pandey,anjali.pandey4679@lpu.in,Lovely Professional University,Information Technology,1,2,97,93,8.62,0,paid,0.99,no
+769089573278,Pranav Chaudhary,pranav.chaudhary9315@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,3,6,97,90,9.12,0,paid,0.94,no
+275274958208,Dev Iyer,dev.iyer2345@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,1,2,46,59,5.44,4,delayed,0.23,no
+247433490108,Akash Bose,akash.bose6981@pes.edu,PES University,Electrical and Electronics Engineering,1,2,99,84,8.59,0,paid,0.81,no
+385475861895,Shyam Sengupta,shyam.sengupta2729@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electrical and Electronics Engineering,3,6,69,62,6.51,1,paid,0.77,no
+783309991637,Dhruv Menon,dhruv.menon2934@lpu.in,Lovely Professional University,Mechanical Engineering,3,6,80,78,7.41,2,paid,0.62,no
+457040652410,Dev Das,dev.das4903@mitwpu.edu.in,MIT World Peace University,Civil Engineering,3,6,100,100,9.79,0,paid,0.99,no
+544061315810,Sonam Menon,sonam.menon139@hithaldia.ac.in,Haldia Institute of Technology,Mechanical Engineering,4,8,97,97,8.9,0,paid,0.96,no
+114075234247,Sneha Das,sneha.das3359@lpu.in,Lovely Professional University,Information Technology,1,1,98,100,9.07,0,paid,0.89,no
+562600311252,Abhishek Sengupta,abhishek.sengupta4777@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,4,8,80,61,7.96,0,paid,0.71,no
+947484217703,Mukesh Desai,mukesh.desai3746@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,4,7,72,65,6.5,0,delayed,0.67,no
+181350539047,Atharva Nair,atharva.nair6584@bmsce.ac.in,BMS College of Engineering,Civil Engineering,4,7,94,86,9.72,0,paid,0.94,no
+257042892037,Shaurya Chaudhary,shaurya.chaudhary8230@kiit.ac.in,KIIT University,Civil Engineering,4,7,68,63,7.9,0,delayed,0.53,no
+303223420962,Dhruv Patel,dhruv.patel8194@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,1,1,96,91,8.75,0,paid,0.84,yes
+262710322345,Pranav Rao,pranav.rao6942@kiit.ac.in,KIIT University,Electronics and Communication Engineering,2,4,90,84,9.72,0,paid,0.82,no
+855580323482,Sneha Reddy,sneha.reddy6517@srmist.edu.in,SRM Institute of Science and Technology,Mechanical Engineering,3,6,77,75,8.41,1,paid,0.62,no
+912117657898,Pooja Joshi,pooja.joshi2519@vit.ac.in,Vellore Institute of Technology,Civil Engineering,2,3,96,80,8.83,0,paid,0.94,no
+819466190941,Aarti Mishra,aarti.mishra6300@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,3,5,73,62,7.72,1,paid,0.57,no
+364160918560,Aryan Sengupta,aryan.sengupta9048@rvce.edu.in,RV College of Engineering,Civil Engineering,2,3,71,66,8.2,1,paid,0.66,no
+271937432430,Kabir Deshmukh,kabir.deshmukh5731@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,2,3,45,58,4.08,1,delayed,0.35,no
+913585484177,Vivek Rajput,vivek.rajput1587@pes.edu,PES University,Mechanical Engineering,1,2,65,68,7.54,0,paid,0.67,no
+230638333872,Nidhi Kumar,nidhi.kumar2376@vit.ac.in,Vellore Institute of Technology,Civil Engineering,1,1,83,74,7.99,1,paid,0.62,no
+917341105945,Abhishek Nair,abhishek.nair8303@nmamit.nitte.edu.in,NMAM Institute of Technology,Electronics and Communication Engineering,4,7,65,66,8.35,1,paid,0.76,no
+549170911706,Suresh Joshi,suresh.joshi3345@kiit.ac.in,KIIT University,Electronics and Communication Engineering,1,2,81,62,7.53,2,paid,0.63,no
+303292405905,Nidhi Pandey,nidhi.pandey4668@lpu.in,Lovely Professional University,Civil Engineering,4,7,74,62,6.55,1,paid,0.55,no
+881539451225,Akash Chatterjee,akash.chatterjee9924@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,3,6,80,62,8.28,1,paid,0.6,no
+771008644615,Aarav Sengupta,aarav.sengupta139@msrit.edu,MS Ramaiah Institute of Technology,Computer Science and Engineering,3,5,75,65,7.13,2,paid,0.79,no
+368554943047,Shruti Menon,shruti.menon5191@rvce.edu.in,RV College of Engineering,Mechanical Engineering,2,4,53,38,5.19,1,delayed,0.2,no
+634815708281,Sai Nair,sai.nair5775@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,2,3,63,39,5.25,5,paid,0.11,no
+349600161616,Ishaan Joshi,ishaan.joshi7284@nmamit.nitte.edu.in,NMAM Institute of Technology,Electronics and Communication Engineering,1,2,66,64,7.53,0,paid,0.52,no
+634699236270,Kavya Menon,kavya.menon922@dayanandasagar.edu,Dayananda Sagar College of Engineering,Computer Science and Engineering,4,7,90,86,9.25,0,paid,0.82,yes
+764696859692,Shaurya Singh,shaurya.singh4260@pes.edu,PES University,Civil Engineering,4,7,89,80,9.34,0,paid,0.82,no
+213071103185,Aditya Mishra,aditya.mishra9175@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,2,3,92,97,8.51,0,paid,0.9,no
+621981717734,Ishaan Das,ishaan.das589@mitwpu.edu.in,MIT World Peace University,Computer Science and Engineering,1,2,70,62,6.56,2,paid,0.56,no
+876214740807,Yash Menon,yash.menon1795@rvce.edu.in,RV College of Engineering,Electronics and Communication Engineering,2,4,74,71,6.85,0,paid,0.71,no
+430798335252,Yash Rao,yash.rao1170@pes.edu,PES University,Electronics and Communication Engineering,2,4,55,42,4.79,1,unpaid,0.12,no
+988587817832,Ramesh Verma,ramesh.verma5161@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,3,6,70,70,7.41,1,paid,0.63,no
+146740107288,Rohan Patil,rohan.patil2997@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,4,8,99,91,9.39,0,paid,0.91,no
+958192101685,Aditya Rao,aditya.rao5643@bmsce.ac.in,BMS College of Engineering,Mechanical Engineering,3,6,89,80,8.97,0,paid,0.94,yes
+545047505373,Sneha Tiwari,sneha.tiwari1064@pes.edu,PES University,Electrical and Electronics Engineering,3,5,75,75,8.32,2,paid,0.53,no
+951071175029,Aaryan Menon,aaryan.menon2258@kiit.ac.in,KIIT University,Mechanical Engineering,2,3,67,67,6.87,2,delayed,0.58,no
+191874271239,Sai Desai,sai.desai8642@nmamit.nitte.edu.in,NMAM Institute of Technology,Electronics and Communication Engineering,3,6,60,43,5.57,3,delayed,0.42,no
+802387874803,Krishna Gupta,krishna.gupta2941@amity.edu,Amity University,Mechanical Engineering,3,5,83,77,7.17,0,paid,0.58,no
+763055916210,Neha Patil,neha.patil5977@pes.edu,PES University,Electronics and Communication Engineering,1,2,82,77,8.3,0,paid,0.77,no
+294570666816,Arjun Patel,arjun.patel3591@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Computer Science and Engineering,1,2,49,56,4.12,4,paid,0.18,no
+527505839367,Raj Mukherjee,raj.mukherjee8579@vit.ac.in,Vellore Institute of Technology,Electronics and Communication Engineering,1,1,46,46,5,3,delayed,0.37,no
+608948229570,Raj Mishra,raj.mishra708@bmsce.ac.in,BMS College of Engineering,Information Technology,3,6,71,75,7.19,0,paid,0.53,no
+736462710275,Neha Thakur,neha.thakur5384@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,3,6,82,62,7.82,2,paid,0.66,no
+973956496491,Aditi Singh,aditi.singh2346@lpu.in,Lovely Professional University,Information Technology,4,7,72,72,7.73,2,paid,0.63,no
+362945779021,Karthik Nair,karthik.nair5588@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,1,2,70,62,8.16,0,delayed,0.61,no
+935723278267,Shyam Patel,shyam.patel4025@vit.ac.in,Vellore Institute of Technology,Information Technology,3,5,96,96,8.91,0,paid,0.85,no
+831835740599,Yash Deshmukh,yash.deshmukh6584@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,1,2,100,96,8.95,0,paid,0.82,yes
+642228225828,Riya Rajput,riya.rajput1033@vit.ac.in,Vellore Institute of Technology,Electronics and Communication Engineering,1,2,69,72,7.39,1,paid,0.78,no
+764487574955,Sai Singh,sai.singh9556@lpu.in,Lovely Professional University,Information Technology,4,7,75,73,7.24,2,paid,0.6,no
+787096705061,Aditi Chauhan,aditi.chauhan3616@amity.edu,Amity University,Mechanical Engineering,4,8,62,48,5.39,5,unpaid,0.12,no
+969176623433,Shruti Sharma,shruti.sharma7267@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,1,2,60,48,4.93,4,delayed,0.39,no
+501485356569,Karthik Deshmukh,karthik.deshmukh3708@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,2,3,95,99,8.73,0,paid,0.83,no
+476430933135,Pooja Thakur,pooja.thakur7982@hithaldia.ac.in,Haldia Institute of Technology,Computer Science and Engineering,2,4,80,66,8.19,1,paid,0.75,no
+993352935497,Kabir Yadav,kabir.yadav9715@mitwpu.edu.in,MIT World Peace University,Mechanical Engineering,3,5,75,60,8.14,1,delayed,0.7,no
+444256658460,Dev Chaudhary,dev.chaudhary9007@dayanandasagar.edu,Dayananda Sagar College of Engineering,Civil Engineering,4,7,91,87,9.34,0,paid,0.83,no
+666963401282,Neha Menon,neha.menon3311@nmamit.nitte.edu.in,NMAM Institute of Technology,Mechanical Engineering,4,8,80,74,8.43,1,paid,0.54,no
+450339953644,Atharva Bose,atharva.bose9047@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,1,1,47,51,4.79,2,unpaid,0.25,no
+882719637868,Aaryan Yadav,aaryan.yadav2223@kiit.ac.in,KIIT University,Mechanical Engineering,2,4,76,61,7.47,1,paid,0.64,no
+617355652036,Priya Nair,priya.nair6076@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,4,7,74,74,6.92,2,delayed,0.63,no
+543867798602,Abhishek Tiwari,abhishek.tiwari3393@thapar.edu,Thapar Institute of Engineering and Technology,Electronics and Communication Engineering,4,8,81,72,7.59,1,delayed,0.73,no
+453705218019,Karthik Chatterjee,karthik.chatterjee8708@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Computer Science and Engineering,4,8,72,62,7.85,2,paid,0.69,no
+906633732912,Sanjay Banerjee,sanjay.banerjee3417@dayanandasagar.edu,Dayananda Sagar College of Engineering,Mechanical Engineering,3,6,74,67,8.39,1,paid,0.59,no
+425768100004,Ayaan Sharma,ayaan.sharma8524@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,3,6,96,98,8.57,0,paid,0.94,no
+887100824636,Kavya Chatterjee,kavya.chatterjee6789@pes.edu,PES University,Electrical and Electronics Engineering,3,5,55,52,5.86,4,paid,0.17,no
+409545858682,Sanjay Nair,sanjay.nair6498@msrit.edu,MS Ramaiah Institute of Technology,Computer Science and Engineering,4,8,64,50,4.69,1,paid,0.31,no
+247008168847,Priya Desai,priya.desai7868@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Computer Science and Engineering,4,8,96,93,9.05,0,paid,0.98,yes
+932346874570,Sanjay Joshi,sanjay.joshi2292@kiit.ac.in,KIIT University,Information Technology,4,8,69,64,7.13,0,paid,0.77,no
+816272660134,Aditi Joshi,aditi.joshi1381@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,1,2,94,89,8.72,0,paid,0.95,no
+113014271569,Sumit Mukherjee,sumit.mukherjee9081@srmist.edu.in,SRM Institute of Science and Technology,Civil Engineering,2,4,81,71,7.42,0,delayed,0.57,no
+666978296310,Ayaan Menon,ayaan.menon5325@amity.edu,Amity University,Civil Engineering,1,2,77,63,6.58,1,paid,0.78,no
+838110383776,Dhruv Das,dhruv.das7544@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,1,1,71,68,7.02,2,paid,0.54,no
+207596552090,Dev Bose,dev.bose8054@srmist.edu.in,SRM Institute of Science and Technology,Computer Science and Engineering,2,4,67,78,7.75,1,delayed,0.67,no
+515262890757,Pranav Shah,pranav.shah370@lpu.in,Lovely Professional University,Mechanical Engineering,4,7,57,36,6.32,4,unpaid,0.41,no
+855969721776,Abhinav Menon,abhinav.menon7241@lpu.in,Lovely Professional University,Electrical and Electronics Engineering,2,4,41,47,5.55,3,unpaid,0.16,no
+444842953141,Mukesh Pandey,mukesh.pandey8154@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,4,7,66,68,6.73,1,delayed,0.68,no
+777778380325,Ayaan Rao,ayaan.rao9486@mitwpu.edu.in,MIT World Peace University,Mechanical Engineering,1,1,74,64,8.26,0,paid,0.52,no
+268295579011,Vivaan Reddy,vivaan.reddy2295@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,4,7,65,69,8.14,2,delayed,0.76,no
+114425985068,Khushi Pandey,khushi.pandey7350@bmsce.ac.in,BMS College of Engineering,Mechanical Engineering,4,8,72,67,7.75,1,paid,0.63,no
+852072476446,Aditya Singh,aditya.singh8679@lpu.in,Lovely Professional University,Mechanical Engineering,3,5,78,62,8.29,2,delayed,0.57,no
+651279260197,Aaryan Banerjee,aaryan.banerjee8458@rvce.edu.in,RV College of Engineering,Information Technology,1,2,90,93,9.75,0,paid,0.87,no
+600420587689,Khushi Tiwari,khushi.tiwari2625@kiit.ac.in,KIIT University,Mechanical Engineering,4,7,65,76,7.39,0,paid,0.76,no
+753988541518,Sonam Iyer,sonam.iyer1638@mitwpu.edu.in,MIT World Peace University,Computer Science and Engineering,2,3,74,70,6.55,0,paid,0.73,no
+210869185942,Akash Yadav,akash.yadav8077@thapar.edu,Thapar Institute of Engineering and Technology,Electrical and Electronics Engineering,1,1,70,73,7.2,0,paid,0.56,no
+744874353844,Mukesh Rajput,mukesh.rajput8707@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,1,1,78,62,7.54,2,paid,0.71,no
+318845302932,Yash Reddy,yash.reddy627@kiit.ac.in,KIIT University,Mechanical Engineering,2,4,75,66,7.24,0,paid,0.64,no
+805627233902,Shyam Banerjee,shyam.banerjee5857@hithaldia.ac.in,Haldia Institute of Technology,Mechanical Engineering,4,8,92,85,8.92,0,paid,0.87,no
+653009540567,Shruti Kumar,shruti.kumar8311@amity.edu,Amity University,Mechanical Engineering,2,3,69,63,7.26,2,paid,0.58,no
+582752528546,Shaurya Thakur,shaurya.thakur4254@rvce.edu.in,RV College of Engineering,Computer Science and Engineering,4,8,73,76,8.12,1,paid,0.74,no
+901344965813,Krishna Joshi,krishna.joshi7889@pes.edu,PES University,Electrical and Electronics Engineering,4,7,81,64,6.64,1,paid,0.76,no
+334799790511,Abhinav Deshmukh,abhinav.deshmukh2622@bmsce.ac.in,BMS College of Engineering,Information Technology,3,6,53,58,5.34,3,delayed,0.13,no
+984161338241,Sonam Nair,sonam.nair3338@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,4,8,57,46,6.45,5,delayed,0.22,no
+678108495073,Shyam Das,shyam.das3677@amity.edu,Amity University,Information Technology,2,3,79,60,8.11,0,paid,0.76,no
+297737523072,Sumit Deshmukh,sumit.deshmukh1010@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,3,6,53,39,4.56,5,delayed,0.36,no
+124524464273,Suresh Banerjee,suresh.banerjee1377@amity.edu,Amity University,Electrical and Electronics Engineering,3,6,51,54,5.67,3,paid,0.48,no
+272850990313,Rohan Verma,rohan.verma4699@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,2,4,69,72,7.7,2,paid,0.51,no
+358027710023,Dhruv Rajput,dhruv.rajput8947@vit.ac.in,Vellore Institute of Technology,Electronics and Communication Engineering,4,8,76,71,7.84,0,paid,0.51,no
+740577795740,Ritik Shah,ritik.shah3806@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,1,2,84,76,7.77,2,delayed,0.68,no
+757733464269,Sumit Kulkarni,sumit.kulkarni1708@amity.edu,Amity University,Electrical and Electronics Engineering,2,4,67,72,7.42,1,paid,0.71,no
+564822586031,Aarti Singh,aarti.singh9193@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,2,4,67,74,8.17,1,paid,0.64,no
+688794143425,Pranav Yadav,pranav.yadav3822@dayanandasagar.edu,Dayananda Sagar College of Engineering,Computer Science and Engineering,2,3,91,97,9.41,0,paid,0.94,yes
+197972171996,Abhinav Shah,abhinav.shah5239@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,3,5,83,69,8.24,1,paid,0.52,no
+265836194576,Shreya Iyer,shreya.iyer8646@bmsce.ac.in,BMS College of Engineering,Electrical and Electronics Engineering,4,8,50,49,5.03,1,unpaid,0.28,no
+432051183227,Rahul Joshi,rahul.joshi27@lpu.in,Lovely Professional University,Computer Science and Engineering,2,4,68,75,6.68,1,paid,0.72,no
+237334820472,Kavya Chauhan,kavya.chauhan607@thapar.edu,Thapar Institute of Engineering and Technology,Civil Engineering,3,6,54,54,6.33,2,delayed,0.1,no
+423697508931,Suresh Patel,suresh.patel4678@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,4,7,74,77,7.77,2,paid,0.58,no
+253411530657,Aditya Kumar,aditya.kumar3221@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,1,1,99,92,8.72,0,paid,0.95,no
+976079957842,Vikas Patel,vikas.patel512@thapar.edu,Thapar Institute of Engineering and Technology,Civil Engineering,2,4,69,61,7.61,2,paid,0.58,no
+864344693632,Sumit Chaudhary,sumit.chaudhary7112@pes.edu,PES University,Computer Science and Engineering,4,7,90,85,8.91,0,paid,0.9,yes
+505486383303,Krishna Mishra,krishna.mishra1317@amity.edu,Amity University,Information Technology,1,1,52,41,5.9,2,unpaid,0.48,no
+155559368991,Vikas Shah,vikas.shah5129@msrit.edu,MS Ramaiah Institute of Technology,Computer Science and Engineering,1,2,90,92,9.03,0,paid,0.94,no
+947464303069,Ramesh Desai,ramesh.desai4148@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,4,8,74,69,6.98,2,paid,0.6,no
+805870787660,Ananya Mishra,ananya.mishra5288@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,1,1,74,70,8.43,1,paid,0.75,no
+473070198629,Aaryan Patel,aaryan.patel3531@amity.edu,Amity University,Electrical and Electronics Engineering,3,6,94,95,9.16,0,paid,0.88,no
+597768238917,Ramesh Yadav,ramesh.yadav1791@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,1,1,74,72,7.91,2,paid,0.53,no
+918783697389,Shaurya Sengupta,shaurya.sengupta1766@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,2,3,80,74,7.09,1,paid,0.63,no
+659100947239,Mukesh Reddy,mukesh.reddy9460@nmamit.nitte.edu.in,NMAM Institute of Technology,Computer Science and Engineering,1,1,62,46,6.03,1,unpaid,0.19,no
+985151694432,Shreya Pandey,shreya.pandey6976@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,2,4,79,64,8.02,2,paid,0.64,no
+409864577748,Aaryan Rajput,aaryan.rajput4737@kiit.ac.in,KIIT University,Information Technology,2,3,93,100,9.14,0,paid,0.87,no
+382484119320,Ayaan Chatterjee,ayaan.chatterjee4947@kiit.ac.in,KIIT University,Computer Science and Engineering,3,6,59,55,5.52,3,delayed,0.25,no
+638228957876,Dev Rao,dev.rao9935@lpu.in,Lovely Professional University,Civil Engineering,2,3,77,75,8.21,2,delayed,0.75,no
+837089528921,Ramesh Shah,ramesh.shah5059@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,4,8,63,48,6.38,2,unpaid,0.35,no
+274293916790,Vivek Patil,vivek.patil4927@srmist.edu.in,SRM Institute of Science and Technology,Computer Science and Engineering,4,8,68,75,8.24,1,delayed,0.59,no
+919296435894,Vivek Yadav,vivek.yadav8306@lpu.in,Lovely Professional University,Electronics and Communication Engineering,2,4,86,82,9.16,0,paid,0.87,no
+233154865187,Raj Banerjee,raj.banerjee5535@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,4,7,97,96,9.36,0,paid,0.85,no
+415142787655,Rohan Patel,rohan.patel801@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,2,4,61,52,5.12,5,unpaid,0.3,no
+388230175391,Pooja Chauhan,pooja.chauhan5501@manipal.edu,Manipal Institute of Technology,Electronics and Communication Engineering,4,7,80,67,8.35,0,paid,0.72,no
+152839696772,Aditi Sharma,aditi.sharma2303@rvce.edu.in,RV College of Engineering,Information Technology,2,3,96,88,9.37,0,paid,0.99,no
+904747319882,Ramesh Thakur,ramesh.thakur1588@rvce.edu.in,RV College of Engineering,Electronics and Communication Engineering,1,2,50,39,6.23,3,unpaid,0.13,no
+727683616687,Shaurya Sharma,shaurya.sharma8117@lpu.in,Lovely Professional University,Information Technology,4,7,74,68,7.09,2,paid,0.53,no
+740522459759,Kavya Gupta,kavya.gupta205@vit.ac.in,Vellore Institute of Technology,Civil Engineering,1,1,96,93,9.56,0,paid,0.81,no
+890206565557,Priya Patel,priya.patel7653@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,4,8,63,39,4.14,3,delayed,0.18,no
+577293644887,Sanjay Sharma,sanjay.sharma8721@bmsce.ac.in,BMS College of Engineering,Electrical and Electronics Engineering,3,6,85,80,8.79,0,paid,0.83,no
+109689342221,Abhishek Pandey,abhishek.pandey8364@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electrical and Electronics Engineering,1,1,55,39,5.43,4,delayed,0.49,no
+828012795713,Pooja Nair,pooja.nair1681@msrit.edu,MS Ramaiah Institute of Technology,Electronics and Communication Engineering,1,1,50,50,6.02,1,delayed,0.39,no
+174807178415,Aditya Pandey,aditya.pandey3924@hithaldia.ac.in,Haldia Institute of Technology,Information Technology,3,6,68,60,8.19,2,paid,0.56,no
+284360419654,Akash Kumar,akash.kumar4841@amity.edu,Amity University,Civil Engineering,3,5,72,77,7.8,2,paid,0.51,no
+982166692239,Sai Gupta,sai.gupta3303@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,2,3,62,47,6.21,1,paid,0.29,no
+943035379102,Shreya Chaudhary,shreya.chaudhary3083@pes.edu,PES University,Information Technology,1,1,62,44,6.39,1,unpaid,0.27,no
+621751237512,Amit Kulkarni,amit.kulkarni5152@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,3,5,48,48,6.38,5,delayed,0.32,no
+480909794362,Krishna Singh,krishna.singh6667@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,2,4,85,94,9.3,0,paid,0.81,no
+665688257072,Sonam Joshi,sonam.joshi3769@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,4,8,72,78,7.05,2,paid,0.59,no
+284861125313,Ritik Yadav,ritik.yadav3975@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Mechanical Engineering,3,5,53,49,5.67,3,paid,0.47,no
+921365923131,Nidhi Bose,nidhi.bose6493@bmsce.ac.in,BMS College of Engineering,Electronics and Communication Engineering,4,8,88,86,9.56,0,paid,0.87,yes
+271761323899,Aarav Rao,aarav.rao4170@msrit.edu,MS Ramaiah Institute of Technology,Mechanical Engineering,2,3,66,70,8.2,1,paid,0.6,no
+659756686005,Shreya Chatterjee,shreya.chatterjee1954@nmamit.nitte.edu.in,NMAM Institute of Technology,Electrical and Electronics Engineering,3,6,54,46,5.78,4,paid,0.15,no
+162647636567,Nidhi Desai,nidhi.desai9978@vit.ac.in,Vellore Institute of Technology,Information Technology,1,2,95,82,9.08,0,paid,0.88,yes
+696696121515,Kavya Kumar,kavya.kumar3859@nmamit.nitte.edu.in,NMAM Institute of Technology,Mechanical Engineering,4,7,78,71,7.11,1,paid,0.77,no
+636977246273,Sai Thakur,sai.thakur3172@bmsce.ac.in,BMS College of Engineering,Information Technology,1,1,80,73,7.63,2,paid,0.54,no
+370427399617,Abhinav Iyer,abhinav.iyer898@hithaldia.ac.in,Haldia Institute of Technology,Computer Science and Engineering,3,5,83,75,8.02,2,paid,0.7,no
+427106535824,Riya Joshi,riya.joshi9605@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,4,8,47,37,4.5,2,unpaid,0.41,no
+250832637378,Aditya Patil,aditya.patil1666@amity.edu,Amity University,Information Technology,4,8,85,92,9.19,0,paid,0.93,no
+106634384088,Vihaan Mishra,vihaan.mishra1161@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Information Technology,1,1,74,60,7.99,1,paid,0.78,no
+299020471834,Khushi Singh,khushi.singh613@dayanandasagar.edu,Dayananda Sagar College of Engineering,Mechanical Engineering,1,2,81,78,8.07,1,delayed,0.64,no
+188170812497,Shreya Sengupta,shreya.sengupta4943@vit.ac.in,Vellore Institute of Technology,Information Technology,3,5,74,70,7.87,1,delayed,0.58,no
+306769408919,Ishaan Gupta,ishaan.gupta7745@dayanandasagar.edu,Dayananda Sagar College of Engineering,Computer Science and Engineering,2,3,91,81,9.5,0,paid,0.98,yes
+746744841800,Abhishek Gupta,abhishek.gupta8952@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Information Technology,1,2,91,94,9.79,0,paid,0.9,yes
+189776382183,Akash Nair,akash.nair8800@hithaldia.ac.in,Haldia Institute of Technology,Information Technology,2,3,75,75,7.36,1,delayed,0.52,no
+555199863621,Ritik Kumar,ritik.kumar5400@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electronics and Communication Engineering,1,1,78,66,7.31,1,paid,0.75,no
+200494883869,Nidhi Patel,nidhi.patel6218@lpu.in,Lovely Professional University,Mechanical Engineering,2,4,98,83,9.76,0,paid,0.95,yes
+418206473115,Aarav Kumar,aarav.kumar6187@pes.edu,PES University,Civil Engineering,1,2,97,89,8.62,0,paid,0.82,yes
+471036720922,Ramesh Kulkarni,ramesh.kulkarni6522@manipal.edu,Manipal Institute of Technology,Electronics and Communication Engineering,3,5,78,69,8.26,0,delayed,0.61,no
+473711561443,Manoj Verma,manoj.verma8060@vit.ac.in,Vellore Institute of Technology,Civil Engineering,1,2,83,60,7.53,2,paid,0.68,no
+632274238009,Aditya Menon,aditya.menon5610@manipal.edu,Manipal Institute of Technology,Electronics and Communication Engineering,1,1,40,37,4.32,1,delayed,0.29,no
+590164335776,Aryan Shah,aryan.shah4511@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,1,2,66,72,8.38,2,paid,0.7,no
+998548421943,Yash Desai,yash.desai6220@dayanandasagar.edu,Dayananda Sagar College of Engineering,Mechanical Engineering,2,3,78,77,7.18,1,paid,0.71,no
+170818909576,Sonam Patel,sonam.patel9337@dayanandasagar.edu,Dayananda Sagar College of Engineering,Computer Science and Engineering,3,5,69,63,7.32,2,paid,0.76,no
+800080605061,Anjali Nair,anjali.nair8289@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,3,6,80,60,7.91,2,paid,0.51,no
+297590286554,Ananya Menon,ananya.menon3240@hithaldia.ac.in,Haldia Institute of Technology,Electrical and Electronics Engineering,2,4,73,77,8.42,0,paid,0.68,no
+597396601978,Sonam Patil,sonam.patil2424@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,1,1,76,63,7.58,2,paid,0.72,no
+834244152534,Ishaan Rajput,ishaan.rajput7974@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,1,1,48,43,5.92,5,unpaid,0.33,no
+146528696745,Sumit Reddy,sumit.reddy3173@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,2,4,70,76,7.52,1,paid,0.5,no
+347776588750,Manoj Iyer,manoj.iyer4197@hithaldia.ac.in,Haldia Institute of Technology,Mechanical Engineering,1,2,99,84,8.54,0,paid,1,yes
+176551675400,Reyansh Kumar,reyansh.kumar4935@pes.edu,PES University,Electronics and Communication Engineering,2,4,99,85,9.64,0,paid,0.89,no
+533809463814,Swati Chauhan,swati.chauhan3337@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,2,4,77,67,7.48,0,paid,0.63,no
+123715201643,Dhruv Yadav,dhruv.yadav2731@manipal.edu,Manipal Institute of Technology,Information Technology,1,1,49,38,4.59,2,paid,0.3,no
+645306780169,Aaryan Desai,aaryan.desai9095@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,4,8,88,93,8.93,0,paid,0.91,yes
+359095799496,Sanjay Deshmukh,sanjay.deshmukh1254@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Electronics and Communication Engineering,3,6,100,85,9.32,0,paid,0.88,yes
+224404882517,Aarav Gupta,aarav.gupta4622@rvce.edu.in,RV College of Engineering,Mechanical Engineering,3,5,66,75,7.93,2,paid,0.55,no
+454731103729,Swati Reddy,swati.reddy7177@pes.edu,PES University,Mechanical Engineering,2,4,86,97,9.51,0,paid,0.84,no
+917037688079,Ritik Joshi,ritik.joshi3979@msrit.edu,MS Ramaiah Institute of Technology,Electrical and Electronics Engineering,3,6,63,46,6.06,2,delayed,0.1,no
+763549837483,Sonam Pandey,sonam.pandey2286@amity.edu,Amity University,Electronics and Communication Engineering,4,8,74,69,8.24,0,paid,0.64,no
+840508604349,Manoj Deshmukh,manoj.deshmukh1988@manipal.edu,Manipal Institute of Technology,Civil Engineering,3,6,40,57,5.25,4,paid,0.29,no
+257977108048,Suresh Yadav,suresh.yadav6004@amity.edu,Amity University,Information Technology,4,7,62,41,4.27,5,delayed,0.22,no
+719529899345,Kavya Singh,kavya.singh1632@lpu.in,Lovely Professional University,Mechanical Engineering,3,5,74,76,7.6,1,paid,0.74,no
+711601393695,Krishna Mukherjee,krishna.mukherjee3446@hithaldia.ac.in,Haldia Institute of Technology,Information Technology,2,3,96,86,9.3,0,paid,1,yes
+959818238289,Mukesh Menon,mukesh.menon1248@manipal.edu,Manipal Institute of Technology,Mechanical Engineering,2,3,66,77,6.8,1,paid,0.78,no
+270376662423,Vihaan Bose,vihaan.bose7972@amity.edu,Amity University,Electronics and Communication Engineering,4,7,93,81,8.9,0,paid,0.91,no
+955629336131,Dhruv Chauhan,dhruv.chauhan3448@nmamit.nitte.edu.in,NMAM Institute of Technology,Electrical and Electronics Engineering,1,2,96,94,9.23,0,paid,0.86,no
+658692500849,Yash Chaudhary,yash.chaudhary9680@kiit.ac.in,KIIT University,Mechanical Engineering,2,3,82,63,8.33,2,paid,0.75,no
+829091156962,Aditya Shah,aditya.shah1759@bmsce.ac.in,BMS College of Engineering,Electrical and Electronics Engineering,2,3,71,69,6.59,1,paid,0.55,no
+617521348678,Aarti Yadav,aarti.yadav9965@rvce.edu.in,RV College of Engineering,Information Technology,2,3,50,41,5.11,1,paid,0.32,no
+269468586243,Amit Joshi,amit.joshi4969@vit.ac.in,Vellore Institute of Technology,Civil Engineering,4,8,76,67,8.43,1,delayed,0.75,no
+733167884261,Vihaan Mukherjee,vihaan.mukherjee3853@msrit.edu,MS Ramaiah Institute of Technology,Electrical and Electronics Engineering,3,6,99,92,8.88,0,paid,0.86,no
+332822469706,Aarav Mishra,aarav.mishra6661@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,3,5,79,78,7.27,0,delayed,0.53,no
+287989393216,Sonam Kulkarni,sonam.kulkarni7770@amity.edu,Amity University,Civil Engineering,2,4,73,69,6.71,0,paid,0.61,no
+581365783214,Dhruv Sharma,dhruv.sharma5866@thapar.edu,Thapar Institute of Engineering and Technology,Electronics and Communication Engineering,2,3,75,70,7.64,2,delayed,0.76,no
+797738469188,Shyam Patil,shyam.patil9796@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,3,6,66,79,7.91,2,paid,0.6,no
+854773990141,Aaryan Iyer,aaryan.iyer8044@kiit.ac.in,KIIT University,Information Technology,2,4,63,39,4.17,4,delayed,0.15,no
+769026734297,Kabir Chauhan,kabir.chauhan5917@lpu.in,Lovely Professional University,Computer Science and Engineering,4,8,55,47,4.95,4,delayed,0.26,no
+370019979022,Aditi Desai,aditi.desai2906@mitwpu.edu.in,MIT World Peace University,Electrical and Electronics Engineering,3,6,70,74,7.04,1,paid,0.76,no
+932280433493,Amit Chaudhary,amit.chaudhary6240@rvce.edu.in,RV College of Engineering,Computer Science and Engineering,1,1,78,75,7.82,2,paid,0.58,no
+866739912321,Suresh Nair,suresh.nair2666@mitwpu.edu.in,MIT World Peace University,Electronics and Communication Engineering,3,6,65,75,6.6,2,paid,0.52,no
+846249807117,Amit Patil,amit.patil1449@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Information Technology,1,1,88,99,8.6,0,paid,0.95,no
+757850839505,Shaurya Bose,shaurya.bose8735@amity.edu,Amity University,Electrical and Electronics Engineering,2,3,79,60,7.26,1,paid,0.62,no
+847278649148,Ishaan Mukherjee,ishaan.mukherjee5830@rvce.edu.in,RV College of Engineering,Information Technology,4,8,87,84,9.2,0,paid,0.82,no
+346931302565,Vihaan Das,vihaan.das4814@nmamit.nitte.edu.in,NMAM Institute of Technology,Mechanical Engineering,4,8,76,68,6.86,0,delayed,0.69,no
+560396662447,Kabir Patil,kabir.patil334@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,2,3,49,36,5.21,3,delayed,0.27,no
+300576763866,Reyansh Sharma,reyansh.sharma5042@mitwpu.edu.in,MIT World Peace University,Information Technology,2,3,92,85,9.3,0,paid,0.88,no
+983448810372,Aarav Patel,aarav.patel1107@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,1,1,69,65,7.33,0,paid,0.56,no
+193333944168,Vivaan Rajput,vivaan.rajput6614@mitwpu.edu.in,MIT World Peace University,Electronics and Communication Engineering,2,4,78,60,6.56,2,paid,0.71,no
+208376204325,Aryan Singh,aryan.singh3007@lpu.in,Lovely Professional University,Civil Engineering,3,6,75,74,8.33,1,paid,0.52,no
+641335972868,Vihaan Gupta,vihaan.gupta8679@vit.ac.in,Vellore Institute of Technology,Computer Science and Engineering,3,6,86,83,9.21,0,paid,0.91,no
+909757327649,Sonam Chauhan,sonam.chauhan1347@amity.edu,Amity University,Computer Science and Engineering,2,3,89,82,9.38,0,paid,0.81,no
+280938148214,Sneha Yadav,sneha.yadav3354@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,4,7,60,45,5.94,3,unpaid,0.28,no
+588063490822,Raj Joshi,raj.joshi8296@rvce.edu.in,RV College of Engineering,Mechanical Engineering,4,7,81,65,7.01,0,paid,0.73,no
+469289446165,Kavya Banerjee,kavya.banerjee9063@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,2,4,62,38,4.03,3,delayed,0.27,no
+641044765742,Krishna Tiwari,krishna.tiwari8578@vit.ac.in,Vellore Institute of Technology,Information Technology,4,7,91,83,9.16,0,paid,0.88,no
+920974965989,Rahul Desai,rahul.desai4086@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,3,5,64,54,5.48,2,delayed,0.26,no
+856357778554,Kavya Tiwari,kavya.tiwari7124@mitwpu.edu.in,MIT World Peace University,Mechanical Engineering,2,4,40,41,5.78,4,unpaid,0.26,no
+606790523057,Vivaan Thakur,vivaan.thakur7736@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,4,8,88,96,9.17,0,paid,0.89,no
+702943592004,Raj Rajput,raj.rajput895@pes.edu,PES University,Mechanical Engineering,3,6,48,55,6.29,5,unpaid,0.18,no
+404409550309,Sai Iyer,sai.iyer3039@rvce.edu.in,RV College of Engineering,Electronics and Communication Engineering,3,6,68,77,7.94,0,paid,0.69,no
+562051211296,Khushi Sharma,khushi.sharma1386@kiit.ac.in,KIIT University,Computer Science and Engineering,4,8,68,72,7.91,2,paid,0.54,no
+651088820167,Suresh Menon,suresh.menon1294@hithaldia.ac.in,Haldia Institute of Technology,Civil Engineering,2,4,72,78,6.68,0,paid,0.59,no
+672970966208,Abhinav Rajput,abhinav.rajput4816@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Computer Science and Engineering,3,5,83,66,8.26,2,paid,0.78,no
+245925321170,Shruti Patel,shruti.patel633@msrit.edu,MS Ramaiah Institute of Technology,Information Technology,1,2,67,79,7.23,0,paid,0.64,no
+621159829214,Ishaan Desai,ishaan.desai6992@rvce.edu.in,RV College of Engineering,Computer Science and Engineering,4,7,84,70,6.91,1,paid,0.78,no
+229419354950,Khushi Verma,khushi.verma3247@pes.edu,PES University,Electronics and Communication Engineering,2,3,95,92,8.99,0,paid,0.97,no
+865007670988,Kabir Pandey,kabir.pandey6253@mitwpu.edu.in,MIT World Peace University,Electronics and Communication Engineering,1,1,81,68,7.09,0,paid,0.58,no
+809637584864,Abhishek Kumar,abhishek.kumar5874@dayanandasagar.edu,Dayananda Sagar College of Engineering,Electrical and Electronics Engineering,3,5,49,49,4.1,2,paid,0.33,no
+399130689321,Sanjay Rao,sanjay.rao7509@mitwpu.edu.in,MIT World Peace University,Civil Engineering,2,3,47,41,5.89,4,unpaid,0.37,no
+141390182836,Anjali Shah,anjali.shah7014@dayanandasagar.edu,Dayananda Sagar College of Engineering,Computer Science and Engineering,4,8,99,96,9.37,0,paid,0.81,no
+487926396836,Aditya Bose,aditya.bose9054@vit.ac.in,Vellore Institute of Technology,Civil Engineering,2,3,87,98,8.5,0,paid,0.94,no
+976526612725,Neha Kumar,neha.kumar5087@vit.ac.in,Vellore Institute of Technology,Mechanical Engineering,4,7,75,63,7.78,1,paid,0.78,no
+237965120608,Atharva Deshmukh,atharva.deshmukh2772@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Information Technology,1,1,75,76,7.28,1,paid,0.58,no
+143409452227,Sanjay Kumar,sanjay.kumar3541@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,3,5,75,74,7.5,1,paid,0.71,no
+141384204821,Rohan Sengupta,rohan.sengupta4746@kiit.ac.in,KIIT University,Information Technology,4,7,80,68,7.43,1,paid,0.78,no
+976363331392,Priya Rao,priya.rao2999@nmamit.nitte.edu.in,NMAM Institute of Technology,Civil Engineering,2,4,74,78,6.5,2,delayed,0.74,no
+410870111282,Aarti Shah,aarti.shah4305@lpu.in,Lovely Professional University,Information Technology,1,1,92,85,9.4,0,paid,0.88,no
+389724866065,Vivaan Kulkarni,vivaan.kulkarni9010@manipal.edu,Manipal Institute of Technology,Electrical and Electronics Engineering,2,4,91,93,9.68,0,paid,0.81,yes
+876574654208,Atharva Banerjee,atharva.banerjee6061@nmamit.nitte.edu.in,NMAM Institute of Technology,Electronics and Communication Engineering,2,4,44,43,6,3,unpaid,0.33,no
+627258398443,Rohan Das,rohan.das3403@manipal.edu,Manipal Institute of Technology,Electronics and Communication Engineering,3,6,87,94,8.76,0,paid,0.84,no
+596983198324,Sai Mukherjee,sai.mukherjee9694@thapar.edu,Thapar Institute of Engineering and Technology,Computer Science and Engineering,4,7,72,66,7.6,2,paid,0.69,no
+482061279424,Shreya Gupta,shreya.gupta1131@bmsce.ac.in,BMS College of Engineering,Computer Science and Engineering,1,1,69,63,6.59,2,paid,0.5,no
+996791484424,Ritik Reddy,ritik.reddy4793@srmist.edu.in,SRM Institute of Science and Technology,Information Technology,1,2,83,79,7.66,2,paid,0.67,no
+721731458059,Anjali Thakur,anjali.thakur1322@lpu.in,Lovely Professional University,Mechanical Engineering,2,4,68,72,7.62,2,paid,0.58,no
+729569139018,Reyansh Desai,reyansh.desai5826@msrit.edu,MS Ramaiah Institute of Technology,Electrical and Electronics Engineering,3,5,51,46,4.83,5,unpaid,0.43,no
+537489606784,Amit Rao,amit.rao4990@djscoe.edu,SVKM'S Dwarkadas J. Sanghvi College of Engineering,Civil Engineering,1,2,74,75,7.22,0,paid,0.77,no
+719749714817,Aditi Gupta,aditi.gupta8446@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,2,3,92,91,8.96,0,paid,0.88,no
+211960233689,Arjun Verma,arjun.verma4451@amity.edu,Amity University,Computer Science and Engineering,1,1,99,89,9.31,0,paid,0.82,no
+672295386438,Reyansh Das,reyansh.das224@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,3,6,95,91,9.41,0,paid,0.84,no
+798631555518,Dhruv Mishra,dhruv.mishra9029@hithaldia.ac.in,Haldia Institute of Technology,Computer Science and Engineering,3,5,76,68,6.86,1,paid,0.76,no
+767116771495,Aditya Sengupta,aditya.sengupta5962@thapar.edu,Thapar Institute of Engineering and Technology,Information Technology,1,1,67,78,7.01,0,paid,0.67,no
+599356285368,Mukesh Deshmukh,mukesh.deshmukh2770@manipal.edu,Manipal Institute of Technology,Computer Science and Engineering,4,7,63,52,5.86,1,paid,0.38,no
+336529440650,Ritik Kulkarni,ritik.kulkarni577@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,3,5,67,67,6.61,2,paid,0.52,no
+187643465183,Sonam Thakur,sonam.thakur4206@srmist.edu.in,SRM Institute of Science and Technology,Electrical and Electronics Engineering,1,1,95,99,9.46,0,paid,0.87,no
+489442517912,Neha Mukherjee,neha.mukherjee4151@nmamit.nitte.edu.in,NMAM Institute of Technology,Information Technology,3,5,68,69,6.57,1,delayed,0.69,no
+795398786273,Pooja Sharma,pooja.sharma3068@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,2,4,97,83,8.69,0,paid,0.9,no
+964983355312,Shreya Tiwari,shreya.tiwari4482@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,1,1,72,78,8.27,1,delayed,0.75,no
+159689657886,Vikas Chatterjee,vikas.chatterjee8351@vit.ac.in,Vellore Institute of Technology,Electrical and Electronics Engineering,1,2,96,94,9.2,0,paid,1,yes
+259157417610,Ritik Chatterjee,ritik.chatterjee3485@dayanandasagar.edu,Dayananda Sagar College of Engineering,Information Technology,2,3,56,49,4.25,3,paid,0.21,no
+389272657659,Priya Banerjee,priya.banerjee586@thapar.edu,Thapar Institute of Engineering and Technology,Mechanical Engineering,3,5,66,73,8.35,2,paid,0.69,no
+168845232220,Rahul Das,rahul.das5205@hithaldia.ac.in,Haldia Institute of Technology,Mechanical Engineering,2,3,86,98,8.51,0,paid,0.84,no
+743199998129,Pooja Rajput,pooja.rajput9652@dayanandasagar.edu,Dayananda Sagar College of Engineering,Civil Engineering,3,5,80,72,6.79,1,paid,0.67,no
