@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-primary-dark text-white font-sans antialiased m-0 overflow-x-hidden;
+    }
+}
+
+@layer utilities {
+    .glass-card {
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    .glow-border:focus-within {
+        box-shadow: 0 0 15px rgba(30, 64, 175, 0.5);
+        border-color: rgba(59, 130, 246, 0.5);
+    }
+}
+
+/* Light Mode Overrides */
+html.light-mode body {
+    @apply bg-slate-50 text-slate-900;
+}
+
+html.light-mode .bg-\[\#0a1128\] {
+    @apply bg-slate-50;
+}
+
+html.light-mode .bg-slate-900 {
+    @apply bg-white;
+}
+
+html.light-mode .bg-slate-800,
+html.light-mode .bg-slate-800\/50,
+html.light-mode .bg-slate-800\/90 {
+    @apply bg-slate-100;
+}
+
+html.light-mode .text-slate-200,
+html.light-mode .text-slate-300 {
+    @apply text-slate-700;
+}
+
+html.light-mode .text-slate-400 {
+    @apply text-slate-500;
+}
+
+html.light-mode .text-white {
+    @apply text-slate-900;
+}
+
+html.light-mode .border-slate-800,
+html.light-mode .border-slate-800\/60,
+html.light-mode .border-slate-700,
+html.light-mode .border-slate-700\/50 {
+    @apply border-slate-200;
+}
+
+html.light-mode .bg-slate-900\/50,
+html.light-mode .bg-slate-900\/40 {
+    @apply bg-white/80;
+}
+
+/* Custom scrollbar for modern feel */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
